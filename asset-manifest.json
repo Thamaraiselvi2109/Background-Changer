@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Background-Changer/static/css/main.5f5f2ab2.css",
+    "main.js": "/Background-Changer/static/js/main.7fed1c2c.js",
+    "index.html": "/Background-Changer/index.html",
+    "main.5f5f2ab2.css.map": "/Background-Changer/static/css/main.5f5f2ab2.css.map",
+    "main.7fed1c2c.js.map": "/Background-Changer/static/js/main.7fed1c2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f5f2ab2.css",
+    "static/js/main.7fed1c2c.js"
+  ]
+}
